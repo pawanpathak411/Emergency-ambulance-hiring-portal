@@ -16,4 +16,4 @@ How to run the Emergency Ambulance Hiring Portal Project using PHP and MySQL
 
 Admin Credential
 Username: admin
-Password: Test@123
+Password: Pawan@123
